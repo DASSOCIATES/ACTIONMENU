@@ -1,0 +1,18 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"comcduarte\\ActionMenu\\" : "src"
+		}
+	},
+	"extra" : {
+		"laminas" : {
+			"component" : "dassociates\\ActionMenu",
+			"config-provider" : "dassociates\\ActionMenu\\ConfigProvider"
+		}
+	},
+	"require" : {
+		"laminas/laminas-view" : "~2.34"
+	},
+	"name" : "dassociates/actionmenu",
+	"homepage" : "https://github.com/dassociates/actionmenu"
+}
