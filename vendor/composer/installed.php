@@ -25,6 +25,17 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'dassociates/html' => array(
+            'pretty_version' => 'dev-develop',
+            'version' => 'dev-develop',
+            'reference' => '6d41e6c283adb2c094b3daf0383090d044774530',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../dassociates/html',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
+        ),
         'laminas/laminas-escaper' => array(
             'pretty_version' => '2.13.0',
             'version' => '2.13.0.0',

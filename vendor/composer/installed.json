@@ -1,6 +1,50 @@
 {
     "packages": [
         {
+            "name": "dassociates/html",
+            "version": "dev-develop",
+            "version_normalized": "dev-develop",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/DASSOCIATES/HTML.git",
+                "reference": "6d41e6c283adb2c094b3daf0383090d044774530"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/DASSOCIATES/HTML/zipball/6d41e6c283adb2c094b3daf0383090d044774530",
+                "reference": "6d41e6c283adb2c094b3daf0383090d044774530",
+                "shasum": ""
+            },
+            "require": {
+                "laminas/laminas-view": "~2.34"
+            },
+            "time": "2024-05-10T13:52:54+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Dassociates\\Html\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "description": "Object-Oriented Implementation of HTML",
+            "homepage": "https://www.dassociatesinc.com",
+            "keywords": [
+                "html",
+                "laminas"
+            ],
+            "support": {
+                "email": "cduarte@dassociatesinc.com",
+                "issues": "https://github.com/dassociates/html/issues",
+                "source": "https://github.com/DASSOCIATES/HTML/tree/develop"
+            },
+            "install-path": "../dassociates/html"
+        },
+        {
             "name": "laminas/laminas-escaper",
             "version": "2.13.0",
             "version_normalized": "2.13.0.0",

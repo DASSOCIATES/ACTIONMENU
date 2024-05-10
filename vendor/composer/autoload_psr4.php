@@ -6,7 +6,6 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'dassociates\\ActionMenu\\' => array($baseDir . '/src'),
     'Psr\\Container\\' => array($vendorDir . '/psr/container/src'),
     'Laminas\\View\\' => array($vendorDir . '/laminas/laminas-view/src'),
     'Laminas\\Stdlib\\' => array($vendorDir . '/laminas/laminas-stdlib/src'),
@@ -14,4 +13,6 @@ return array(
     'Laminas\\Json\\' => array($vendorDir . '/laminas/laminas-json/src'),
     'Laminas\\EventManager\\' => array($vendorDir . '/laminas/laminas-eventmanager/src'),
     'Laminas\\Escaper\\' => array($vendorDir . '/laminas/laminas-escaper/src'),
+    'Dassociates\\Html\\' => array($vendorDir . '/dassociates/html/src'),
+    'Dassociates\\ActionMenu\\' => array($baseDir . '/src'),
 );
