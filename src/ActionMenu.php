@@ -1,5 +1,5 @@
 <?php
-namespace dassociates\ActionMenu;
+namespace Dassociates\ActionMenu;
 
 use Laminas\Html\Div;
 use Laminas\Html\Button;

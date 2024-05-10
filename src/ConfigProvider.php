@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace dassociates\ActionMenu;
+namespace Dassociates\ActionMenu;
 
 class ConfigProvider
 {

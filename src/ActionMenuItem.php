@@ -1,5 +1,5 @@
 <?php
-namespace dassociates\ActionMenu;
+namespace Dassociates\ActionMenu;
 
 class ActionMenuItem
 {

@@ -1,5 +1,5 @@
 <?php
-namespace dassociates\ActionMenu\View\Helper;
+namespace Dassociates\ActionMenu\View\Helper;
 
 use Laminas\Html\View\Helper\DataAwareTrait;
 use Laminas\Html\View\Helper\Div;
