@@ -1,8 +1,8 @@
 <?php
 namespace Dassociates\ActionMenu;
 
-use Laminas\Html\Div;
-use Laminas\Html\Button;
+use Dassociates\Html\Div;
+use Dassociates\Html\Button;
 
 class ActionMenu extends Div
 {
