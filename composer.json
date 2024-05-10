@@ -11,7 +11,7 @@
 		}
 	},
 	"require" : {
-		"laminas/laminas-view" : "~2.34"
+		"dassociates/html" : "dev-develop"
 	},
 	"name" : "dassociates/actionmenu",
 	"homepage" : "https://github.com/dassociates/actionmenu"
