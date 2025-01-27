@@ -6,8 +6,8 @@
 	},
 	"extra" : {
 		"laminas" : {
-			"component" : "dassociates\\ActionMenu",
-			"config-provider" : "dassociates\\ActionMenu\\ConfigProvider"
+			"component" : "Dassociates\\ActionMenu",
+			"config-provider" : "Dassociates\\ActionMenu\\ConfigProvider"
 		}
 	},
 	"require" : {
